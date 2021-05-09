@@ -1,2 +1,0 @@
-#!/bin/bash
-sudo chown betty $(find  -user guillaume -name hello)
